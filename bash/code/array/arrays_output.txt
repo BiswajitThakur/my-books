@@ -1,0 +1,5 @@
+$ ./arrays.sh
+Debian Linux
+Redhat Linux
+Ubuntu
+Linux

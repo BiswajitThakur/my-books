@@ -18,11 +18,14 @@
 #include("./src/passing_argument.typ")
 
 = Reading User Input
+#include("./src/read_input.typ")
 
 = Bash Trap Command
+#include("./src/trap.typ")
 
 = Arrays
+#include("./src/array.typ")
 
 = Bash if / else / fi statements
-
+#include("./src/if_else.typ")
  
