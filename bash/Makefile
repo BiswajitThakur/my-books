@@ -1,4 +1,4 @@
-.PHONY: build open clean update
+.PHONY: build open clean update all
 
 build: main.typ
 	@echo "please wait..."
