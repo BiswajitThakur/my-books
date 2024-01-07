@@ -1,2 +1,0 @@
-./4.sh
-NUM1 is greater than NUM2
