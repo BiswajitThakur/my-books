@@ -1,0 +1,6 @@
+$ ./1.sh
+1. Bash
+2. Scripting
+3. Tutorial
+Please choose a word [1,2 or 3]? 2
+You have chosen word: Scripting

@@ -1,0 +1,5 @@
+$ ./args.sh hello world bash
+hello world bash  -> echo $1 $2 $3
+hello world bash  -> args=("$@"); echo ${args[0]} ${args[1]} ${args[2]}
+hello world bash  -> echo $@
+Number of arguments passed: 3  -> echo Number of arguments passed: $#

@@ -1,0 +1,2 @@
+./3.sh
+Values are NOT equal
